@@ -1,16 +1,24 @@
-### Hi there 👋
+# Rachel Breeze @RachBreeze 👋
+Hello, I am Rachel Breeze, from the UK.  I am a senior developer at [Sigma](https://www.designedbysigma.com/) and an [Umbraco MVP](https://https://umbraco.com/).STEM Ambassador & 
+Coder Dojo volunteer and occasional scuba diver.
 
-<!--
-**RachBreeze/RachBreeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Stats
 
-Here are some ideas to get you started:
+![Rachel's Github Stats](https://github-readme-stats.vercel.app/api?username=RachBreeze&show_icons=true&hide_border=true&include_all_commits=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch 
+
+  [<img align="left" alt="Twitter Logo" src="https://img.icons8.com/fluent/48/000000/twitter.png" />](https://twitter.com/BreezeRachel "Rachel's Twitter Handle") 
+[<img align="left" alt="Linkedin Logo" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/rachel-breeze/ "Rachel's LinkedIn Profile") 
+[<img align="left" alt="DEV Logo" src="https://img.icons8.com/ios-filled/50/000000/devpost.png" />](https://dev.to/rachbreeze/ "Rachel's Dev.to account") 
+[<img align="left" alt="Stackoverflow Logo" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />](https://stackoverflow.com/users/13890348/rachel "Rachel's StackOverflow account")
+<br/>
+<br/>
+  
+
+## Articles 
+
+- Written for [Sigma] (https://www.designedbysigma.com/news-and-thoughts/?author=Rachel+Breeze#articles)Sigma is a human-centred research, design and development company.  We believe that putting people at the heart of our approach delivers better products to a happier audience. 
+- Written for [Skrift.io] (https://skrift.io/authors/rachel-breeze/) Skrift connects the global Umbraco community through thoughts, ideas, meetups, festivals, and experiences.
+- On Umbraco [How to host a virtual meet up](https://umbraco.com/blog/how-to-host-a-virtual-umbraco-meetup/)
+
