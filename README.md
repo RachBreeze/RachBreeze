@@ -18,11 +18,12 @@ Coder Dojo volunteer and occasional scuba diver.
 
 ## Articles 
 
-- Written for [Sigma] (https://www.designedbysigma.com/news-and-thoughts/?author=Rachel+Breeze#articles)Sigma is a human-centred research, design and development company.  We believe that putting people at the heart of our approach delivers better products to a happier audience. 
-- Written for [Skrift.io] (https://skrift.io/authors/rachel-breeze/) Skrift connects the global Umbraco community through thoughts, ideas, meetups, festivals, and experiences.
+- Written for [Sigma](https://www.designedbysigma.com/news-and-thoughts/?author=Rachel+Breeze#articles) - Sigma is a human-centred research, design and development company.  We believe that putting people at the heart of our approach delivers better products to a happier audience. 
+- Written for [Skrift.io](https://skrift.io/authors/rachel-breeze/) - Skrift connects the global Umbraco community through thoughts, ideas, meetups, festivals, and experiences.
 - On Umbraco [How to host a virtual meet up](https://umbraco.com/blog/how-to-host-a-virtual-umbraco-meetup/)
 
 ##Talks
-- [Making Umbraco Accessibile] (https://www.meetup.com/The-London-Umbraco-Meetup/events/266177776/)
+
+- London Umbraco Meetup [Making Umbraco Accessible](https://www.meetup.com/The-London-Umbraco-Meetup/events/266177776/)
 - Update on making the Umbraco backoffice accessible, alongside accesibility team at [CodePatch](https://candidcontributions.com/codepatch)
-- [Hackathons] (https://www.meetup.com/MaccTech/photos/27585605/)
+- MaccTech [Hackathons](https://www.meetup.com/MaccTech/photos/27585605/)
