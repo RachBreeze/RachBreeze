@@ -8,10 +8,11 @@ Coder Dojo volunteer and occasional scuba diver.
 
 ## Get in touch 
 
-  [<img align="left" alt="Twitter Logo" src="https://img.icons8.com/fluent/48/000000/twitter.png" />](https://twitter.com/BreezeRachel "Rachel's Twitter Handle") 
-[<img align="left" alt="Linkedin Logo" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/rachel-breeze/ "Rachel's LinkedIn Profile") 
-[<img align="left" alt="DEV Logo" src="https://img.icons8.com/ios-filled/50/000000/devpost.png" />](https://dev.to/rachbreeze/ "Rachel's Dev.to account") 
-[<img align="left" alt="Stackoverflow Logo" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />](https://stackoverflow.com/users/13890348/rachel "Rachel's StackOverflow account")
+  [<img align="left" alt="Twitter Logo" src="https://img.icons8.com/fluent/48/000000/twitter.png" aria-hidden="true"/>](https://twitter.com/BreezeRachel "Rachel's Twitter Handle") 
+[<img align="left" alt="Linkedin Logo" src="https://img.icons8.com/color/48/000000/linkedin.png" aria-hidden="true"/>](https://www.linkedin.com/in/rachel-breeze/ "Rachel's LinkedIn Profile") 
+[<img align="left" alt="DEV Logo" src="https://img.icons8.com/ios-filled/50/000000/devpost.png" aria-hidden="true"/>](https://dev.to/rachbreeze/ "Rachel's Dev.to account") 
+[<img align="left" alt="Stackoverflow Logo" src="https://img.icons8.com/color/48/000000/stackoverflow.png" aria-hidden="true"/>](https://stackoverflow.com/users/13890348/rachel "Rachel's StackOverflow account") <br/>
+[Sessionize](https://sessionize.com/rachel-breeze/ "Rachel's Sessionize Profile")
 <br/>
 <br/>
   
@@ -32,3 +33,4 @@ Coder Dojo volunteer and occasional scuba diver.
 - London Umbraco Meetup [Making Umbraco Accessible](https://www.meetup.com/The-London-Umbraco-Meetup/events/266177776/)
 - Update on making the Umbraco backoffice accessible, alongside accesibility team at [CodePatch](https://candidcontributions.com/codepatch)
 - MaccTech [Hackathons](https://www.meetup.com/MaccTech/photos/27585605/)
+
