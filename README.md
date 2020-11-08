@@ -19,9 +19,14 @@ Coder Dojo volunteer and occasional scuba diver.
 
 ## Articles 
 
-- [My journey to becoming an Umbraco MVP ](https://www.designedbysigma.com/news-and-thoughts/disillusioned-developer-to-mvp-my-umbraco-journey/)
-- Written for [Sigma](https://www.designedbysigma.com/news-and-thoughts/?author=Rachel+Breeze#articles) - Sigma is a human-centred research, design and development company; who believe that putting people at the heart of our approach delivers better products to a happier audience. 
+- Written for [Sigma](https://www.designedbysigma.com/news-and-thoughts/?author=Rachel+Breeze#articles) - Sigma is a human-centred research, design and development company; who believe that putting people at the heart of our approach delivers better products to a happier audience:
+  - [My journey to becoming an Umbraco MVP ](https://www.designedbysigma.com/news-and-thoughts/disillusioned-developer-to-mvp-my-umbraco-journey/)
+  - [Stepping forwards with accessibility in Umbraco](https://www.designedbysigma.com/news-and-thoughts/a-year-of-accessibility-with-umbraco/)
+  - [Putting accessibility front and centre in Umbraco 8.1](https://www.designedbysigma.com/news-and-thoughts/putting-accessibility-front-and-centre-in-umbraco-8-1/)
+  - [Improving the Accessibility of the Umbraco CMS Back Office](https://www.designedbysigma.com/news-and-thoughts/improving-the-accessibility-of-the-umbraco-cms-back-office/)
 - Written for [Skrift.io](https://skrift.io/authors/rachel-breeze/) - Skrift connects the global Umbraco community through thoughts, ideas, meetups, festivals, and experiences.
+  - [Integrating Umbraco With Dynamics 365](https://skrift.io/issues/integrating-umbraco-with-dynamics-365/)
+  - [Agile: A developer's perspective](https://skrift.io/issues/agile-a-developer-s-perspective/)
 - On Umbraco [How to host a virtual meet up](https://umbraco.com/blog/how-to-host-a-virtual-umbraco-meetup/)
 - On 24days.in, an Umbraco Advent Calendar [How DRY should you be?](https://24days.in/umbraco-cms/2018/how-dry-should-you-be/)
 
