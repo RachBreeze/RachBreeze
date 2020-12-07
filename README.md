@@ -31,8 +31,8 @@ Coder Dojo volunteer and occasional scuba diver.
 - On 24days.in, an Umbraco Advent Calendar [How DRY should you be?](https://24days.in/umbraco-cms/2018/how-dry-should-you-be/)
 
 ## Talks
-
-- Leeds Sharp [Accessibility - A .NET developer's perspective](https://www.meetup.com/Leeds-Sharp/events/273722967/)
+- Developer Developer Developer https://www.developerdeveloperdeveloper.com/schedule
+- Leeds Sharp [Accessibility - A .NET developer's perspective](https://www.meetup.com/Leeds-Sharp/events/273722967/) 
 - DF20 Update on making the Umbraco backoffice accessible , alongside accesibility team at [Dutch Umbraco User group](https://www.df20.nl/). Watch [My talk on the improvements in the Umnbraco backoffice](https://youtu.be/NLhYczD5cH0)
 - Dot Net North [Accessibility - A .NET developer's perspective](https://www.meetup.com/DotNetNorth/events/272797167/).  Watch  [My talk on Accessibilty at Dot Net North here](https://youtu.be/9JtUVlIjkC0)
 - London Umbraco Meetup [Making Umbraco Accessible](https://www.meetup.com/The-London-Umbraco-Meetup/events/266177776/)
