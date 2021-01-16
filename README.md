@@ -27,7 +27,11 @@ Coder Dojo volunteer and occasional scuba diver.
 - Written for [Skrift.io](https://skrift.io/authors/rachel-breeze/) - Skrift connects the global Umbraco community through thoughts, ideas, meetups, festivals, and experiences.
   - [Integrating Umbraco With Dynamics 365](https://skrift.io/issues/integrating-umbraco-with-dynamics-365/)
   - [Agile: A developer's perspective](https://skrift.io/issues/agile-a-developer-s-perspective/)
-- On Umbraco [How to host a virtual meet up](https://umbraco.com/blog/how-to-host-a-virtual-umbraco-meetup/)
+- On Umbraco:
+  - [Umbraco Backoffice Accessibility Team Story](https://umbraco.com/blog/umbraco-backoffice-accessibility-team-story/)
+  - [How to host a virtual meet up](https://umbraco.com/blog/how-to-host-a-virtual-umbraco-meetup/)
+  - [Contribution stories: Rachel Breeze](https://community.umbraco.com/umbracians-in-action/contribution-stories/contribution-stories-rachels-story/)
+  - [uProfile June 2019: Rachel Breeze](https://umbraco.com/blog/uprofile-june-2019-rachel-breeze/)
 - On 24days.in, an Umbraco Advent Calendar:
   - 2020: [Configuration Files: Creating, Testing and Deploying in Azure DevOps](https://24days.in/umbraco-cms/2020/configuration-files/)
   - 2018: [How DRY should you be?](https://24days.in/umbraco-cms/2018/how-dry-should-you-be/)
