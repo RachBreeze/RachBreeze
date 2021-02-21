@@ -37,6 +37,7 @@ Coder Dojo volunteer and occasional scuba diver.
   - 2018: [How DRY should you be?](https://24days.in/umbraco-cms/2018/how-dry-should-you-be/)
 
 ## Talks
+- [Manchester Digital Professional Development Days Building Accessibility into the Development Process](https://www.manchesterdigital.com/event/manchester-digital/professional-development-days-building-accessibility-into-the-development-process)
 - [Developer Developer Developer](https://www.developerdeveloperdeveloper.com/schedule)
 - Leeds Sharp [Accessibility - A .NET developer's perspective](https://www.meetup.com/Leeds-Sharp/events/273722967/) 
 - DF20 Update on making the Umbraco backoffice accessible , alongside accesibility team at [Dutch Umbraco User group](https://www.df20.nl/). Watch [My talk on the improvements in the Umnbraco backoffice](https://youtu.be/NLhYczD5cH0)
