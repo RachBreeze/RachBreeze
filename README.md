@@ -1,5 +1,5 @@
 # Rachel Breeze @RachBreeze 👋
-Hello, I am Rachel Breeze, from the UK.  I am a senior developer at [Sigma](https://www.designedbysigma.com/) and an [Umbraco MVP](https://https://umbraco.com/).  I am also a STEM Ambassador & 
+Hello, I am Rachel Breeze, from the UK.  I am a senior developer at [Nexer Digital](https://www.nexerdigital.com/) and an [Umbraco MVP](https://umbraco.com/).  I am also a STEM Ambassador & 
 Coder Dojo volunteer and occasional scuba diver.
 
 ## Github Stats
