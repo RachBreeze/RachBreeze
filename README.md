@@ -36,6 +36,8 @@ I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Um
 - On 24days.in, an Umbraco Advent Calendar:
   - 2020: [Configuration Files: Creating, Testing and Deploying in Azure DevOps](https://24days.in/umbraco-cms/2020/configuration-files/)
   - 2018: [How DRY should you be?](https://24days.in/umbraco-cms/2018/how-dry-should-you-be/)
+- On dev.to:
+  -  [Are coding standards inclusive](https://dev.to/rachbreeze/are-coding-standards-inclusive-2ee4)
 
 ## Talks
 ### Upcomming
