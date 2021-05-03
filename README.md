@@ -20,7 +20,7 @@ I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Um
 
 ## Articles 
 
-- Written for [Sigma](https://www.designedbysigma.com/news-and-thoughts/?author=Rachel+Breeze#articles) - Sigma is a human-centred research, design and development company; who believe that putting people at the heart of our approach delivers better products to a happier audience:
+- Written for [Nexer Digital](https://www.nexerdigital.com/news-and-thoughts/?author=Rachel+Breeze#articles) - Sigma is a human-centred research, design and development company; who believe that putting people at the heart of our approach delivers better products to a happier audience:
   - [My journey to becoming an Umbraco MVP ](https://www.designedbysigma.com/news-and-thoughts/disillusioned-developer-to-mvp-my-umbraco-journey/)
   - [Stepping forwards with accessibility in Umbraco](https://www.designedbysigma.com/news-and-thoughts/a-year-of-accessibility-with-umbraco/)
   - [Putting accessibility front and centre in Umbraco 8.1](https://www.designedbysigma.com/news-and-thoughts/putting-accessibility-front-and-centre-in-umbraco-8-1/)
