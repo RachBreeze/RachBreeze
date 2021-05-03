@@ -46,7 +46,7 @@ I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Um
 ### Past
 - Pink Programming [Deep Dive into Accessiblity](https://www.linkedin.com/events/6788417157454716928/)
 - [Manchester Digital Professional Development Days Building Accessibility into the Development Process](https://www.manchesterdigital.com/event/manchester-digital/professional-development-days-building-accessibility-into-the-development-process)
-- [Developer Developer Developer](https://www.developerdeveloperdeveloper.com/schedule)
+- Developer Developer Developer [Accessibility - A .NET developer's perspective](https://www.developerdeveloperdeveloper.com/schedule). Watch the [Developer Developer Developer talk](https://www.youtube.com/watch?v=wnNgcix2oNg&t=1389s)
 - Leeds Sharp [Accessibility - A .NET developer's perspective](https://www.meetup.com/Leeds-Sharp/events/273722967/) 
 - DF20 Update on making the Umbraco backoffice accessible , alongside accesibility team at [Dutch Umbraco User group](https://www.df20.nl/). Watch [My talk on the improvements in the Umbraco backoffice](https://youtu.be/NLhYczD5cH0)
 - Dot Net North [Accessibility - A .NET developer's perspective](https://www.meetup.com/DotNetNorth/events/272797167/).  Watch  [My talk on Accessibilty at Dot Net North here](https://youtu.be/9JtUVlIjkC0)
