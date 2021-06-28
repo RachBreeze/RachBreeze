@@ -1,5 +1,5 @@
 # Rachel Breeze @RachBreeze 👋
-Hello, I am Rachel Breeze, from the UK.  I am a senior developer at [Nexer Digital](https://www.nexerdigital.com/) and an [Umbraco MVP](https://umbraco.com/).  I am also a STEM Ambassador & 
+Hello, I am Rachel Breeze, from the UK.  I am a senior developer at [Nexer Digital](https://www.nexerdigital.com/) and a 2 x [Umbraco MVP](https://umbraco.com/).  I am also a STEM Ambassador & 
 Coder Dojo volunteer and occasional scuba diver. 
 I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Umbraco-Meetup/) and I am a member of the [Umbraco Backoffice Accessibilty Team](https://twitter.com/UmbracoA11y)
 
@@ -40,12 +40,11 @@ I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Um
   -  [Are coding standards inclusive](https://dev.to/rachbreeze/are-coding-standards-inclusive-2ee4)
 
 ## Talks
-### Upcomming
-- UmbracCymru meetup: May 20, 2021, 18:30 GMT.  [Update on Accessibilty in Umbraco](https://www.meetup.com/UmbraCymru/events/274035307/) 
-- CodeGarden: June 9 - 11, 2021, Date and Time TBC [Adding accessibility to the development process](https://codegarden.umbraco.com/speakers/)
-### Past
+### 2021
+- CodeGarden [Adding accessibility to the development process](https://codegarden.umbraco.com/speakers/)
 - Pink Programming [Deep Dive into Accessiblity](https://www.linkedin.com/events/6788417157454716928/)
 - [Manchester Digital Professional Development Days Building Accessibility into the Development Process](https://www.manchesterdigital.com/event/manchester-digital/professional-development-days-building-accessibility-into-the-development-process)
+### 2020
 - Developer Developer Developer [Accessibility - A .NET developer's perspective](https://www.developerdeveloperdeveloper.com/schedule). Watch the [Developer Developer Developer talk](https://www.youtube.com/watch?v=wnNgcix2oNg&t=1389s)
 - Leeds Sharp [Accessibility - A .NET developer's perspective](https://www.meetup.com/Leeds-Sharp/events/273722967/) 
 - DF20 Update on making the Umbraco backoffice accessible , alongside accesibility team at [Dutch Umbraco User group](https://www.df20.nl/). Watch [My talk on the improvements in the Umbraco backoffice](https://youtu.be/NLhYczD5cH0)
