@@ -1,7 +1,7 @@
 # Rachel Breeze @RachBreeze 👋
 Hello, I am Rachel Breeze, from the UK.  I am a senior developer and squad lead at [Nexer Digital](https://www.nexerdigital.com/) and a 3 x [Umbraco MVP](https://umbraco.com/).  I am also a STEM Ambassador & 
 Coder Dojo volunteer and occasional scuba diver. 
-I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Umbraco-Meetup/) and I am a member of the [Umbraco Backoffice Accessibilty Team](https://twitter.com/UmbracoA11y). The Umbraco Backoffice Accessibilty Team arranged [Umbraad](https://umbraad.com/) this year as part of [GAAD](https://globalaccessibilityawarenessday.org/).
+I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Umbraco-Meetup/) and I am a member of the [Umbraco Backoffice Accessibilty Team](https://twitter.com/UmbracoA11y). The Umbraco Backoffice Accessibilty Team arranged [Umbraad](https://umbraad.com/) in 2021 as part of [GAAD](https://globalaccessibilityawarenessday.org/).
 
 ## Github Stats
 
