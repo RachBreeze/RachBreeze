@@ -40,6 +40,10 @@ I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Um
   -  [Are coding standards inclusive](https://dev.to/rachbreeze/are-coding-standards-inclusive-2ee4)
 
 ## Talks
+### 2022 
+- DuugFest [DF22 Talkshow - Accessibility and a trip down memory lane](https://df22.sessionize.com/session/379187)
+- DuugFest [DF22 The Forgotten Users Of A CMS](https://df22.sessionize.com/session/377612P
+- Umbraco Manchester [You're already doing DXP - you just didn't know it](https://www.meetup.com/manchester-umbraco-meetup/events/288022232/) with [Phil Whittaker](https://twitter.com/balanceddev)
 ### 2021
 - CodeGarden [Adding accessibility to the development process](https://codegarden.umbraco.com/speakers/)
 - Pink Programming [Deep Dive into Accessiblity](https://www.linkedin.com/events/6788417157454716928/)
