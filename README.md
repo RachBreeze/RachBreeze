@@ -34,6 +34,7 @@ I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Um
   - [Contribution stories: Rachel Breeze](https://community.umbraco.com/umbracians-in-action/contribution-stories/contribution-stories-rachels-story/)
   - [uProfile June 2019: Rachel Breeze](https://umbraco.com/blog/uprofile-june-2019-rachel-breeze/)
 - On 24days.in, an Umbraco Advent Calendar:
+  - 2022: [Creating better API documentation with .NET Core] (https://24days.in/umbraco-cms/2022/better-api-docs/)
   - 2020: [Configuration Files: Creating, Testing and Deploying in Azure DevOps](https://24days.in/umbraco-cms/2020/configuration-files/)
   - 2018: [How DRY should you be?](https://24days.in/umbraco-cms/2018/how-dry-should-you-be/)
 - On dev.to:
@@ -41,6 +42,7 @@ I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Um
 
 ## Talks
 ### 2022 
+- DDD North 2022 The Forgotten Users Of A Website
 - DuugFest [DF22 Talkshow - Accessibility and a trip down memory lane](https://df22.sessionize.com/session/379187)
 - DuugFest [DF22 The Forgotten Users Of A CMS](https://df22.sessionize.com/session/377612P)
 - Umbraco Manchester [You're already doing DXP - you just didn't know it](https://www.meetup.com/manchester-umbraco-meetup/events/288022232/) with [Phil Whittaker](https://twitter.com/balanceddev)
