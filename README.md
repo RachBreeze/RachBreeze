@@ -44,16 +44,16 @@ I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Um
 ### 2022 
 - DDD North 2022 The Forgotten Users Of A Website
 - DuugFest [DF22 Talkshow - Accessibility and a trip down memory lane](https://df22.sessionize.com/session/379187)
-- DuugFest [DF22 The Forgotten Users Of A CMS](https://df22.sessionize.com/session/377612P)
+- DuugFest [DF22 The Forgotten Users Of A CMS](https://df22.sessionize.com/session/377612)
 - Umbraco Manchester [You're already doing DXP - you just didn't know it](https://www.meetup.com/manchester-umbraco-meetup/events/288022232/) with [Phil Whittaker](https://twitter.com/balanceddev)
 ### 2021
-- CodeGarden [Adding accessibility to the development process](https://codegarden.umbraco.com/speakers/)
-- Pink Programming [Deep Dive into Accessiblity](https://www.linkedin.com/events/6788417157454716928/)
+- CodeGarden Adding accessibility to the development process
+- Pink Programming [Deep Dive into Accessibility](https://www.linkedin.com/events/6788417157454716928/)
 - [Manchester Digital Professional Development Days Building Accessibility into the Development Process](https://www.manchesterdigital.com/event/manchester-digital/professional-development-days-building-accessibility-into-the-development-process)
 ### 2020
 - Developer Developer Developer [Accessibility - A .NET developer's perspective](https://www.developerdeveloperdeveloper.com/schedule). Watch the [Developer Developer Developer talk](https://www.youtube.com/watch?v=wnNgcix2oNg&t=1389s)
 - Leeds Sharp [Accessibility - A .NET developer's perspective](https://www.meetup.com/Leeds-Sharp/events/273722967/) 
-- DF20 Update on making the Umbraco backoffice accessible , alongside accesibility team at [Dutch Umbraco User group](https://www.df20.nl/). Watch [My talk on the improvements in the Umbraco backoffice](https://youtu.be/NLhYczD5cH0)
+- DF20 prog , alongside accesibility team at Dutch Umbraco User group. Watch [My talk on the improvements in the Umbraco backoffice](https://youtu.be/NLhYczD5cH0)
 - Dot Net North [Accessibility - A .NET developer's perspective](https://www.meetup.com/DotNetNorth/events/272797167/).  Watch  [My talk on Accessibilty at Dot Net North here](https://youtu.be/9JtUVlIjkC0)
 - London Umbraco Meetup [Making Umbraco Accessible](https://www.meetup.com/The-London-Umbraco-Meetup/events/266177776/)
 - Update on making the Umbraco backoffice accessible, alongside accesibility team at [CodePatch](https://candidcontributions.com/codepatch)
