@@ -34,7 +34,7 @@ I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Um
   - [Contribution stories: Rachel Breeze](https://community.umbraco.com/umbracians-in-action/contribution-stories/contribution-stories-rachels-story/)
   - [uProfile June 2019: Rachel Breeze](https://umbraco.com/blog/uprofile-june-2019-rachel-breeze/)
 - On 24days.in, an Umbraco Advent Calendar:
-  - 2022: [Creating better API documentation with .NET Core] (https://24days.in/umbraco-cms/2022/better-api-docs/)
+  - 2022: [Creating better API documentation with .NET Core](https://24days.in/umbraco-cms/2022/better-api-docs/)
   - 2020: [Configuration Files: Creating, Testing and Deploying in Azure DevOps](https://24days.in/umbraco-cms/2020/configuration-files/)
   - 2018: [How DRY should you be?](https://24days.in/umbraco-cms/2018/how-dry-should-you-be/)
 - On dev.to:
