@@ -7,16 +7,19 @@ I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Um
 
 ![Rachel's Github Stats](https://github-readme-stats.vercel.app/api?username=RachBreeze&show_icons=true&hide_border=true&include_all_commits=true)
 
-## Get in touch 
-
-  [<img align="left" alt="Twitter Logo" src="https://img.icons8.com/fluent/48/000000/twitter.png" aria-hidden="true"/>](https://twitter.com/BreezeRachel "Rachel's Twitter Handle") 
-[<img align="left" alt="Linkedin Logo" src="https://img.icons8.com/color/48/000000/linkedin.png" aria-hidden="true"/>](https://www.linkedin.com/in/rachel-breeze/ "Rachel's LinkedIn Profile") 
-[<img align="left" alt="DEV Logo" src="https://img.icons8.com/ios-filled/50/000000/devpost.png" aria-hidden="true"/>](https://dev.to/rachbreeze/ "Rachel's Dev.to account") 
-[<img align="left" alt="Stackoverflow Logo" src="https://img.icons8.com/color/48/000000/stackoverflow.png" aria-hidden="true"/>](https://stackoverflow.com/users/13890348/rachel "Rachel's StackOverflow account") <br/>
-[Sessionize](https://sessionize.com/rachel-breeze/ "Rachel's Sessionize Profile")
-<br/>
-
 ## Website
 
 You can also find me at [Rachel's Website](https://www.rachelbreeze.dev/)
+
+## Get in touch 
+
+[<img align="left" alt="Twitter Logo" src="https://img.icons8.com/fluent/48/000000/twitter.png" aria-hidden="true"/>](https://twitter.com/BreezeRachel "Rachel's Twitter Handle") 
+[<img align="left" alt="Linkedin Logo" src="https://img.icons8.com/color/48/000000/linkedin.png" aria-hidden="true"/>](https://www.linkedin.com/in/rachel-breeze/ "Rachel's LinkedIn Profile") 
+[<img align="left" alt="DEV Logo" src="https://img.icons8.com/ios-filled/50/000000/devpost.png" aria-hidden="true"/>](https://dev.to/rachbreeze/ "Rachel's Dev.to account") 
+[<img align="left" alt="Stackoverflow Logo" src="https://img.icons8.com/color/48/000000/stackoverflow.png" aria-hidden="true"/>](https://stackoverflow.com/users/13890348/rachel "Rachel's StackOverflow account")
+[Sessionize](https://sessionize.com/rachel-breeze/ "Rachel's Sessionize Profile")
+[Mastodon](https://geekdom.social/@rachelbreezedev "Rachel's Mastodon account")
+
+
+
 
