@@ -9,7 +9,7 @@ I help run the [Umbraco Manchester Meetup ](https://www.meetup.com/Manchester-Um
 
 ## Website
 
-You can also find me at [Rachel's Website](https://www.rachelbreeze.dev/)
+You can also find me at [Rachel's Website](https://www.rachelbreeze.dev/) and check out [Linktree](https://linktr.ee/rachelbreezedev) for all my social media profiles.
 
 ## Get in touch 
 
@@ -19,7 +19,3 @@ You can also find me at [Rachel's Website](https://www.rachelbreeze.dev/)
 [<img align="left" alt="Stackoverflow Logo" src="https://img.icons8.com/color/48/000000/stackoverflow.png" aria-hidden="true"/>](https://stackoverflow.com/users/13890348/rachel "Rachel's StackOverflow account")
 [Sessionize](https://sessionize.com/rachel-breeze/ "Rachel's Sessionize Profile")
 [Mastodon](https://geekdom.social/@rachelbreezedev "Rachel's Mastodon account")
-
-
-
-
